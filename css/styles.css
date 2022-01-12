@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: burlywood;
+}
+header nav {
+    background-color: lightgray;
+}
+.nav-button {
+    display: inline-block;
+    background-color: darkgray;
+    color: white;
+    text-decoration: none;
+    padding: 20px 30px;
+}
+.left {
+    float: left;
+}
+aside {
+    background-color: blue;
+    width: 30%;
+    height: 750px;
+}
+.content {
+    width: 70%;
+    height: 750px;
